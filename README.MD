@@ -117,3 +117,9 @@ Plaintext
 ├── modeling_case_3.ipynb  # Jupyter notebook untuk eksplorasi dan pemodelan data
 ├── requirements.txt       # Daftar library dan dependensi proyek (Opsional)
 └── README.md              # Dokumentasi proyek ini
+└── streamlit_app.py.md    # Frontend inferensi model
+
+## 4: Menjalankan Streamlit App (Frontend/UI)**
+```bash
+streamlit run streamlit_app.py
+```
