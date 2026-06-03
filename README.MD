@@ -40,7 +40,7 @@ Instal semua dependensi yang dibutuhkan (pastikan kamu memiliki file requirement
 pip install -r requirements.txt
 ```
 
-Opsi B: Menggunakan Conda
+### Opsi B: Menggunakan Conda
 Buka terminal/Anaconda Prompt.
 
 Buat environment baru bernama codingcamp_env (bisa disesuaikan):
@@ -61,7 +61,7 @@ Instal dependensi:
 pip install -r requirements.txt
 ```
 
-2. Menjalankan Jupyter Notebook (Modeling)
+## 2. Menjalankan Jupyter Notebook (Modeling)
 File permodelan machine learning berada di file modeling_case_3.ipynb. Untuk membukanya dan mencoba menjalankannya:
 
 Pastikan virtual environment kamu masih aktif.
@@ -82,7 +82,7 @@ Browser akan otomatis terbuka. Navigasikan ke file modeling_case_3.ipynb dan kli
 
 Kamu bisa menjalankan setiap baris kode (Cell) dengan menekan Shift + Enter.
 
-3. Menjalankan Backend Django
+## 3. Menjalankan Backend Django
 Proyek ini menggunakan framework Django untuk API/Backend yang berada di dalam folder ./backend_django.
 
 Ikuti langkah berikut untuk menjalankan server secara lokal:
